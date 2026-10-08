@@ -1,0 +1,995 @@
+Age,Gender,Education,JobTitle,YearsExperience,Department,JobLevel,CompanySize,Location,Remote,Salary
+22.0,Female,Bachelor,Director,0.0,IT,5,Large,City_023,Yes,78308.71
+34.4,Male,Bachelor,Engineer,12.4,Sales,4,Large,City_011,Yes,92835.25
+30.7,Male,Bachelor,Specialist,6.7,IT,2,Large,City_002,No,75619.52
+65.0,Male,High School,Analyst,40.0,Marketing,3,Medium,City_006,No,119105.3
+24.6,Female,PhD,Analyst,0.0,Operations,4,Small,City_010,No,85813.05
+25.8,Male,PhD,Specialist,2.8,IT,3,Medium,City_008,Yes,72445.7
+47.3,Male,Bachelor,Specialist,23.3,Sales,5,Small,City_013,No,122006.4
+28.7,Female,Master,Engineer,6.7,Finance,2,Large,City_005,No,75924.12
+40.4,Female,Bachelor,Director,15.4,Operations,3,Large,City_023,No,92047.18
+47.4,Female,High School,Manager,25.4,Finance,2,Medium,City_022,No,90575.12
+54.5,Female,Bachelor,Analyst,31.5,HR,1,Medium,City_030,Yes,107686.4
+40.5,Female,Bachelor,Manager,17.5,Sales,1,Medium,City_038,No,72609.31
+22.0,Male,Bachelor,Coordinator,0.0,Operations,1,Medium,City_034,No,38952.3
+45.1,Male,PhD,Engineer,21.1,Marketing,2,Large,City_004,No,92408.0
+22.0,Female,Bachelor,Manager,0.0,Sales,3,Small,City_010,Yes,67765.94
+23.9,Female,Master,Coordinator,0.0,Marketing,2,Large,City_025,Yes,65711.82
+55.9,Male,Bachelor,Engineer,31.9,Sales,1,Medium,City_010,No,93123.34
+23.5,Male,Master,Engineer,0.0,Marketing,1,Small,City_034,No,37595.17
+32.0,Male,Bachelor,Coordinator,10.1,IT,2,Large,City_040,No,69893.51
+38.4,Male,Master,Director,14.399999999999999,Sales,1,Large,City_017,No,79977.73
+35.6,Female,Bachelor,Specialist,9.6,Marketing,1,Small,City_029,Yes,60136.61
+46.6,Male,Master,Manager,21.6,Marketing,1,Small,City_026,No,86158.81
+34.1,Female,Bachelor,Manager,10.1,Marketing,2,Small,City_001,No,65490.99
+37.7,Female,Master,Specialist,14.7,HR,4,Small,City_037,No,98137.06
+54.9,Male,Master,Manager,30.9,Marketing,1,Large,City_008,No,106112.71
+29.0,Female,Bachelor,Analyst,7.0,Operations,1,Small,City_025,No,60957.1
+45.6,Female,High School,Analyst,19.6,Operations,3,Small,City_008,No,95994.4
+25.0,Male,Bachelor,Specialist,3.0,HR,2,Large,City_014,No,63764.45
+38.7,Female,Bachelor,Engineer,16.7,Sales,4,Medium,City_015,No,97914.73
+29.8,Female,Master,Analyst,6.8,IT,1,Medium,City_019,No,51655.19
+37.0,Female,PhD,Analyst,14.8,Marketing,2,Medium,City_031,Yes,83099.95
+51.4,Male,Master,Specialist,28.4,Marketing,4,Large,City_012,No,134218.11
+38.5,Male,Bachelor,Engineer,13.5,IT,2,Medium,City_020,Yes,76244.88
+34.9,Male,Bachelor,Coordinator,11.9,Operations,1,Large,City_021,Yes,67337.39
+37.5,Male,Bachelor,Director,13.5,Marketing,1,Small,City_013,No,60562.25
+37.3,Female,Bachelor,Director,13.3,HR,3,Medium,City_040,No,84987.74
+22.0,Male,High School,Specialist,0.0,Sales,3,Small,City_031,No,53854.07
+52.7,Female,High School,Specialist,28.700000000000003,Finance,5,Large,City_008,Yes,119793.66
+35.4,Male,Master,Coordinator,11.399999999999999,Finance,5,Large,City_017,No,97665.28
+34.7,Female,Bachelor,Director,8.7,Marketing,4,Large,City_026,No,86785.81
+46.2,Female,Bachelor,Specialist,21.2,HR,3,Small,City_011,Yes,101786.02
+33.9,Female,Bachelor,Specialist,8.9,HR,2,Large,City_008,No,66883.13
+54.0,Female,Bachelor,Specialist,28.0,IT,1,Small,City_004,No,97233.83
+65.0,Male,High School,Manager,40.0,Unknown,4,Large,City_031,No,136089.09
+22.3,Male,Bachelor,Engineer,0.0,IT,4,Large,City_029,Yes,71964.07
+29.5,Male,Bachelor,Analyst,7.5,IT,2,Large,City_004,Yes,65472.4
+49.2,Male,Master,Specialist,23.2,Unknown,5,Small,City_033,Yes,126537.89
+43.9,Male,High School,Manager,21.9,Operations,4,Small,City_015,Yes,105627.49
+38.8,Male,Bachelor,Manager,16.8,IT,3,Large,City_023,Yes,96216.88
+40.7,Male,High School,Specialist,18.7,Sales,2,Large,City_007,No,82841.06
+30.9,Male,Master,Specialist,6.9,Unknown,3,Medium,City_001,No,71802.68
+48.2,Male,High School,Coordinator,25.2,Operations,3,Medium,City_005,Yes,96087.34
+60.2,Female,PhD,Manager,38.2,IT,3,Medium,City_023,No,131123.82
+40.7,Female,Bachelor,Manager,16.7,Sales,2,Small,City_007,No,72514.48
+22.0,Female,Bachelor,Coordinator,0.0,IT,2,Medium,City_034,No,52362.31
+32.9,Male,Bachelor,Director,7.9,Unknown,1,Medium,City_007,No,56077.6
+43.6,Male,Master,Director,20.6,HR,4,Medium,City_005,No,107677.63
+49.7,Male,High School,Director,25.700000000000003,IT,2,Medium,City_014,No,92955.98
+37.0,Female,High School,Specialist,14.0,Marketing,5,Small,City_004,No,84553.72
+42.1,Male,Bachelor,Engineer,17.1,Operations,4,Medium,City_001,Yes,102322.32
+43.1,Female,PhD,Director,21.1,Sales,4,Small,City_006,No,110540.78
+51.0,Female,Bachelor,Engineer,27.9,Marketing,2,Medium,City_013,No,103024.56
+42.1,Female,Master,Engineer,17.1,HR,3,Small,City_012,No,86819.06
+38.9,Female,PhD,Specialist,13.9,IT,3,Medium,City_040,No,92495.64
+28.0,Male,High School,Coordinator,3.0,Operations,1,Small,City_035,No,42308.47
+22.0,Male,Bachelor,Engineer,0.0,Marketing,3,Small,City_002,No,55246.94
+48.2,Male,Bachelor,Manager,26.2,HR,1,Large,City_039,No,97485.32
+30.6,Female,Master,Coordinator,5.6,Sales,3,Medium,City_040,Yes,75047.9
+56.5,Female,Master,Specialist,34.5,Marketing,3,Large,City_032,No,121417.34
+41.2,Male,Master,Engineer,15.2,IT,3,Small,City_003,No,85060.56
+22.0,Female,High School,Analyst,0.0,Operations,5,Small,City_006,No,62981.96
+45.1,Female,Bachelor,Manager,22.1,IT,1,Large,City_005,Yes,86497.88
+32.2,Male,Bachelor,Engineer,6.2,Operations,3,Small,City_040,No,70460.3
+28.0,Male,Bachelor,Specialist,6.0,Finance,2,Medium,City_007,Yes,56753.42
+35.9,Male,Bachelor,Engineer,10.9,Sales,1,Small,City_029,No,66392.29
+34.0,Male,Bachelor,Manager,11.3,Finance,2,Medium,City_040,No,63683.28
+35.7,Female,PhD,Coordinator,9.7,HR,5,Large,City_005,No,102197.35
+22.0,Female,High School,Engineer,0.0,Sales,3,Medium,City_009,Yes,57558.06
+36.7,Female,Bachelor,Director,11.7,HR,3,Small,City_036,No,89604.66
+35.2,Male,Master,Specialist,12.2,HR,2,Small,City_032,No,82188.28
+65.0,Male,Bachelor,Manager,40.0,IT,2,Small,City_007,Yes,124227.58
+28.7,Female,Bachelor,Specialist,4.7,HR,2,Medium,City_034,Yes,50621.08
+33.4,Female,PhD,Coordinator,11.4,IT,3,Large,City_005,No,91080.9
+40.0,Male,High School,Manager,18.2,HR,1,Small,City_021,Yes,64520.99
+39.2,Male,High School,Manager,16.2,Operations,2,Medium,City_020,No,74450.36
+42.8,Female,High School,Coordinator,20.8,Sales,4,Small,City_036,No,86185.66
+38.0,Female,Master,Coordinator,16.3,Unknown,3,Small,City_001,Yes,90301.67
+27.7,Female,Bachelor,Specialist,3.6999999999999993,IT,4,Medium,City_025,No,65680.64
+48.8,Female,Bachelor,Engineer,26.8,Operations,4,Medium,City_026,Yes,115240.07
+37.5,Male,Bachelor,Coordinator,13.5,Operations,2,Medium,City_008,No,73940.14
+33.3,Female,PhD,Manager,8.3,IT,2,Medium,City_028,No,64854.41
+31.3,Female,Bachelor,Manager,7.3,HR,1,Large,City_018,Yes,62903.08
+37.3,Female,Master,Engineer,13.3,Operations,2,Large,City_013,No,84991.13
+53.3,Male,PhD,Director,27.3,IT,1,Medium,City_037,No,94497.97
+25.5,Male,Bachelor,Coordinator,3.5,HR,2,Medium,City_028,No,63729.61
+55.9,Male,Bachelor,Manager,33.9,Finance,4,Medium,City_026,No,133155.98
+41.4,Female,Master,Specialist,19.4,Sales,2,Medium,City_033,No,85172.03
+37.4,Male,Bachelor,Manager,13.4,Unknown,2,Medium,City_004,Yes,76002.62
+39.8,Female,Bachelor,Coordinator,15.799999999999997,Unknown,2,Small,City_012,No,90331.15
+43.0,Female,Master,Manager,18.8,Sales,4,Large,City_008,Yes,112056.14
+46.3,Male,Bachelor,Manager,22.3,Operations,1,Medium,City_007,No,83273.94
+31.2,Female,Master,Manager,5.2,HR,1,Medium,City_033,No,52006.41
+59.0,Male,High School,Coordinator,35.0,Marketing,1,Large,City_038,No,104107.58
+46.1,Male,Bachelor,Manager,24.1,Operations,4,Small,City_035,No,104240.68
+33.9,Male,Master,Engineer,7.9,Finance,1,Small,City_019,No,65549.48
+39.0,Female,Bachelor,Coordinator,14.0,IT,1,Medium,City_020,No,64647.08
+34.4,Female,Master,Specialist,9.4,Sales,2,Medium,City_025,No,71230.2
+26.6,Female,Bachelor,Manager,2.6,IT,1,Large,City_023,No,47512.74
+39.6,Female,Bachelor,Analyst,17.6,Marketing,2,Large,City_010,No,76430.71
+34.4,Male,Bachelor,Manager,8.4,HR,1,Medium,City_016,Yes,60750.55
+40.5,Female,Bachelor,Manager,18.5,Marketing,4,Large,City_031,No,98957.33
+47.0,Male,Bachelor,Manager,22.0,Marketing,1,Large,City_038,No,83335.54
+44.4,Female,Bachelor,Director,20.4,Unknown,1,Medium,City_005,Yes,84423.13
+25.5,Male,Bachelor,Coordinator,0.0,Operations,3,Large,City_024,Yes,59215.44
+36.7,Male,High School,Director,14.7,Sales,3,Medium,City_036,Yes,80919.1
+26.2,Male,Bachelor,Analyst,1.2,HR,2,Large,City_008,Yes,74955.1
+27.2,Male,Bachelor,Analyst,3.2,Marketing,2,Small,City_011,No,51293.64
+25.8,Male,PhD,Coordinator,3.8,IT,1,Medium,City_030,No,45757.94
+28.0,Female,PhD,Coordinator,5.9,Unknown,4,Large,City_029,No,100048.27
+28.5,Male,PhD,Coordinator,4.5,Operations,3,Small,City_022,Yes,80204.82
+22.0,Female,Bachelor,Analyst,0.0,Unknown,3,Small,City_030,No,61435.09
+37.1,Male,High School,Engineer,14.1,Sales,1,Large,City_020,Yes,69368.96
+29.9,Female,PhD,Engineer,6.9,IT,3,Medium,City_014,Yes,76529.76
+30.7,Female,High School,Coordinator,8.7,HR,2,Medium,City_026,No,57520.11
+35.0,Female,Master,Director,9.0,IT,3,Medium,City_040,No,79294.93
+40.2,Male,High School,Coordinator,16.2,Sales,4,Medium,City_002,No,77800.57
+51.5,Male,Master,Specialist,29.5,HR,2,Medium,City_033,No,111631.25
+31.7,Male,Bachelor,Director,5.7,HR,3,Small,City_005,No,69769.7
+32.7,Male,Bachelor,Director,8.7,IT,1,Small,City_028,No,59952.83
+27.4,Male,High School,Specialist,2.4,Finance,2,Small,City_020,No,46335.12
+40.8,Female,Master,Specialist,18.8,Sales,4,Medium,City_006,No,94716.13
+52.5,Female,High School,Specialist,27.5,HR,1,Small,City_021,Yes,98114.36
+26.0,Female,Master,Engineer,1.0,Operations,3,Medium,City_035,Yes,68413.54
+43.9,Female,PhD,Specialist,19.9,IT,2,Medium,City_019,No,99689.18
+47.4,Female,Bachelor,Coordinator,21.4,Operations,5,Medium,City_009,Yes,116116.12
+42.6,Female,Bachelor,Manager,17.6,Operations,4,Medium,City_036,No,100043.23
+44.0,Female,High School,Engineer,20.0,Marketing,2,Large,City_009,No,89387.06
+30.7,Female,Bachelor,Engineer,7.7,IT,1,Small,City_016,No,48785.77
+29.4,Female,Bachelor,Engineer,3.4,Marketing,3,Small,City_037,No,58384.67
+56.6,Female,Master,Director,30.6,HR,1,Large,City_005,No,95536.21
+33.1,Female,Master,Manager,8.1,Finance,1,Medium,City_012,No,60134.04
+36.3,Female,Master,Director,12.3,HR,2,Small,City_023,No,80438.49
+41.1,Female,Bachelor,Director,19.1,IT,3,Large,City_027,No,91329.97
+39.9,Male,Master,Director,13.9,HR,1,Large,City_001,Yes,78839.54
+48.0,Female,Master,Director,25.0,HR,4,Small,City_011,No,118750.36
+22.0,Male,Bachelor,Manager,0.0,Marketing,2,Small,City_025,Yes,36758.49
+22.0,Male,Bachelor,Director,0.0,Operations,3,Large,City_013,No,63767.36
+30.6,Male,High School,Analyst,6.600000000000001,Sales,1,Large,City_024,No,63410.27
+32.5,Male,Bachelor,Specialist,8.5,Finance,2,Small,City_037,No,62979.3
+33.2,Female,Bachelor,Director,7.2,HR,2,Small,City_002,No,71589.12
+36.4,Female,Master,Manager,13.4,Unknown,1,Medium,City_002,No,65018.09
+26.5,Male,High School,Coordinator,2.5,HR,4,Medium,City_039,Yes,68357.81
+46.3,Male,Master,Analyst,24.3,Marketing,4,Medium,City_034,No,119207.17
+48.8,Male,Bachelor,Director,23.8,Unknown,2,Large,City_034,No,98818.6
+43.4,Female,Master,Coordinator,17.4,HR,5,Large,City_005,Yes,109349.68
+30.8,Male,High School,Coordinator,5.8,Marketing,1,Large,City_015,No,57054.83
+50.4,Female,High School,Specialist,27.4,IT,1,Small,City_010,No,80712.13
+36.0,Female,High School,Manager,13.0,IT,3,Large,City_006,No,79915.2
+42.4,Female,Master,Director,20.4,Unknown,1,Medium,City_019,No,90538.9
+28.4,Male,Master,Engineer,4.4,Operations,3,Medium,City_024,Yes,74223.77
+23.2,Female,High School,Specialist,1.2,Operations,3,Small,City_022,Yes,62555.86
+38.9,Female,Master,Director,16.9,IT,4,Small,City_036,No,104514.06
+56.3,Male,High School,Specialist,32.3,Marketing,1,Medium,City_038,No,89651.12
+41.1,Female,PhD,Coordinator,19.1,Operations,5,Medium,City_029,No,105493.99
+49.7,Male,Bachelor,Director,24.7,HR,1,Small,City_007,Yes,95135.66
+44.0,Male,High School,Specialist,20.0,Marketing,4,Medium,City_028,Yes,94485.02
+29.4,Male,PhD,Engineer,5.4,Marketing,2,Medium,City_016,No,75096.65
+36.3,Male,PhD,Director,11.3,Marketing,1,Medium,City_020,No,74579.6
+46.5,Male,Bachelor,Director,22.5,Operations,2,Large,City_037,No,106134.45
+50.7,Male,Bachelor,Director,26.700000000000003,Marketing,4,Large,City_040,No,109866.61
+36.5,Female,High School,Specialist,13.5,HR,2,Small,City_030,Yes,64937.96
+22.0,Male,Bachelor,Coordinator,0.0,Finance,1,Medium,City_034,No,36542.41
+44.1,Female,Bachelor,Coordinator,22.1,Finance,3,Medium,City_029,No,98624.47
+46.0,Male,Bachelor,Coordinator,21.0,HR,1,Large,City_010,No,77786.37
+43.2,Female,Master,Director,18.2,HR,2,Large,City_030,Yes,101146.92
+22.0,Male,High School,Manager,0.0,Operations,1,Large,City_038,No,52855.78
+34.5,Male,High School,Analyst,10.5,Finance,3,Large,City_005,No,73948.42
+22.0,Female,Bachelor,Director,0.0,Sales,4,Medium,City_011,No,63525.52
+34.5,Female,Bachelor,Coordinator,10.5,Sales,1,Medium,City_028,Yes,71707.04
+46.7,Female,Master,Coordinator,24.7,HR,1,Medium,City_010,Yes,85253.9
+46.7,Male,Bachelor,Analyst,22.700000000000003,Operations,3,Large,City_026,No,102332.92
+39.2,Male,High School,Engineer,17.2,HR,1,Medium,City_006,No,80442.9
+51.9,Male,Bachelor,Engineer,27.9,Sales,4,Medium,City_032,No,111018.79
+42.0,Female,Bachelor,Analyst,18.0,Sales,4,Medium,City_037,Yes,100251.64
+53.3,Female,Master,Engineer,28.3,HR,5,Small,City_029,No,128778.17
+41.5,Male,Bachelor,Analyst,19.5,HR,3,Small,City_036,Yes,86274.09
+29.0,Female,Bachelor,Coordinator,2.6,Marketing,3,Small,City_040,Yes,70258.64
+22.2,Male,High School,Specialist,0.0,IT,2,Small,City_034,Yes,41377.58
+36.1,Female,Bachelor,Analyst,10.1,Marketing,3,Small,City_019,Yes,74101.53
+35.5,Male,Bachelor,Director,10.5,Sales,2,Medium,City_012,No,67789.77
+44.8,Female,High School,Director,20.799999999999997,Sales,1,Large,City_021,No,68954.99
+51.2,Female,High School,Coordinator,27.200000000000003,Finance,2,Medium,City_024,Yes,94668.63
+53.7,Female,Master,Engineer,28.7,HR,4,Large,City_014,No,125644.01
+23.8,Female,Master,Coordinator,0.0,Unknown,1,Medium,City_010,No,54064.76
+41.5,Male,Master,Specialist,15.5,HR,1,Medium,City_040,Yes,72603.29
+40.9,Female,Master,Analyst,14.9,Unknown,1,Medium,City_014,No,77126.22
+27.0,Female,Master,Analyst,5.0,Sales,1,Small,City_003,No,52849.54
+22.0,Male,Bachelor,Analyst,0.0,Unknown,1,Large,City_026,No,45293.06
+23.5,Female,Master,Analyst,0.0,IT,4,Small,City_038,No,73397.2
+22.0,Female,Bachelor,Manager,0.0,Unknown,1,Small,City_040,No,47018.58
+30.8,Male,Bachelor,Engineer,4.8,Finance,1,Large,City_012,No,56785.14
+43.4,Female,High School,Specialist,17.4,HR,2,Large,City_001,No,79509.82
+34.2,Male,High School,Specialist,8.2,Operations,3,Large,City_008,No,69247.11
+25.8,Female,PhD,Specialist,2.8,Marketing,4,Small,City_012,No,76132.75
+22.8,Male,Bachelor,Specialist,0.0,Sales,4,Small,City_034,Yes,78693.81
+34.1,Male,Master,Manager,10.1,Finance,1,Small,City_035,Yes,68052.88
+37.0,Male,Bachelor,Director,15.0,Operations,1,Small,City_004,Yes,76059.49
+27.4,Male,Bachelor,Manager,3.4,Unknown,1,Large,City_027,Yes,50494.42
+32.6,Male,Master,Manager,7.6,Sales,4,Large,City_018,No,81170.88
+35.2,Female,Master,Coordinator,12.2,Unknown,2,Large,City_010,Yes,90575.7
+48.9,Female,Bachelor,Analyst,24.9,Operations,3,Large,City_019,No,102818.84
+35.0,Female,High School,Specialist,13.5,Finance,2,Small,City_018,No,70115.05
+28.4,Female,Bachelor,Engineer,4.4,Operations,1,Large,City_031,Yes,49574.35
+65.0,Male,Master,Coordinator,40.0,Operations,1,Medium,City_014,Yes,122379.85
+25.9,Male,Bachelor,Manager,0.9,Operations,1,Large,City_003,No,49533.47
+44.9,Female,PhD,Director,18.9,HR,2,Large,City_020,Yes,96319.05
+29.2,Female,Master,Specialist,6.2,IT,1,Large,City_020,Yes,69155.71
+27.2,Male,Bachelor,Engineer,1.2,Finance,2,Large,City_030,No,56946.55
+22.0,Female,High School,Specialist,0.0,HR,2,Large,City_034,No,47794.88
+44.4,Female,Bachelor,Manager,20.4,Marketing,4,Small,City_031,Yes,106179.78
+27.8,Female,Bachelor,Manager,4.8,Operations,4,Small,City_008,No,71226.35
+47.4,Male,High School,Engineer,22.4,HR,1,Large,City_002,No,76500.27
+36.5,Male,Bachelor,Manager,12.5,Marketing,2,Small,City_026,No,69945.84
+38.4,Male,Bachelor,Manager,13.4,Marketing,1,Large,City_007,No,67761.21
+49.7,Female,Bachelor,Analyst,23.7,Marketing,1,Medium,City_022,Yes,89810.63
+51.8,Male,Master,Coordinator,27.8,HR,2,Small,City_032,No,107837.08
+43.4,Female,Bachelor,Specialist,21.4,HR,3,Medium,City_038,No,103310.87
+46.8,Male,Master,Coordinator,24.8,Operations,4,Medium,City_034,Yes,116440.96
+39.6,Male,High School,Analyst,15.6,Operations,2,Medium,City_034,No,72730.77
+24.6,Male,Bachelor,Coordinator,0.0,IT,1,Small,City_002,No,36191.83
+49.6,Female,Bachelor,Director,23.6,Unknown,4,Medium,City_023,Yes,109144.43
+39.7,Female,Bachelor,Director,15.700000000000003,Marketing,3,Medium,City_024,Yes,79625.56
+42.5,Female,Master,Manager,16.5,Sales,3,Small,City_015,No,94520.61
+37.5,Male,Bachelor,Director,13.5,Finance,1,Medium,City_027,No,64920.15
+43.0,Male,Bachelor,Coordinator,21.0,Unknown,2,Medium,City_026,No,75318.51
+35.6,Female,Bachelor,Analyst,9.6,Sales,1,Medium,City_034,No,57986.03
+48.0,Female,Bachelor,Engineer,26.0,HR,4,Small,City_010,Yes,112293.5
+46.7,Female,Bachelor,Coordinator,21.7,HR,2,Large,City_014,Yes,87608.75
+31.9,Male,Master,Manager,5.9,IT,1,Medium,City_037,No,62017.93
+35.9,Male,High School,Analyst,13.9,Sales,3,Large,City_006,No,67765.5
+42.4,Male,High School,Director,16.4,Marketing,4,Medium,City_013,Yes,103557.73
+22.0,Female,Master,Manager,0.0,Unknown,1,Medium,City_033,Yes,51458.23
+37.1,Male,Bachelor,Director,11.1,Operations,1,Medium,City_030,No,57433.03
+31.9,Male,Bachelor,Engineer,5.9,Finance,3,Large,City_005,No,72666.51
+40.4,Male,Bachelor,Engineer,14.4,Operations,3,Medium,City_008,Yes,83795.42
+26.8,Male,PhD,Analyst,2.8,HR,3,Small,City_023,Yes,72595.1
+36.9,Male,Bachelor,Specialist,14.9,Operations,4,Large,City_006,Yes,110550.91
+22.0,Female,Bachelor,Specialist,0.0,Finance,2,Medium,City_033,Yes,63965.91
+32.9,Male,Master,Manager,8.899999999999999,Finance,2,Large,City_036,No,67907.57
+36.8,Female,Master,Analyst,10.8,HR,1,Medium,City_027,Yes,64662.57
+27.5,Male,Bachelor,Coordinator,3.5,Finance,2,Large,City_030,Yes,61080.35
+41.3,Female,Bachelor,Analyst,15.3,HR,3,Medium,City_013,No,89329.93
+41.1,Female,Bachelor,Manager,19.1,Sales,1,Large,City_009,No,79621.27
+44.7,Male,PhD,Manager,20.7,IT,1,Medium,City_006,No,89348.0
+22.0,Male,Bachelor,Engineer,0.0,Finance,2,Medium,City_001,Yes,54119.72
+45.9,Male,Bachelor,Manager,23.9,Unknown,5,Large,City_016,Yes,119001.77
+47.0,Female,High School,Director,23.8,Unknown,5,Medium,City_038,Yes,121542.72
+45.3,Male,High School,Analyst,23.3,Marketing,2,Medium,City_030,Yes,91400.61
+32.9,Female,High School,Coordinator,10.9,Marketing,3,Large,City_019,No,67439.55
+34.0,Female,High School,Coordinator,10.5,IT,2,Large,City_013,Yes,79236.01
+34.0,Female,Bachelor,Manager,8.6,Sales,1,Large,City_013,No,50727.44
+40.6,Female,Master,Manager,15.6,HR,2,Medium,City_022,Yes,87106.64
+30.3,Female,Bachelor,Coordinator,4.3,IT,1,Medium,City_025,No,47953.12
+27.2,Male,Master,Manager,5.2,Unknown,1,Large,City_008,Yes,75004.92
+31.9,Female,Bachelor,Engineer,7.899999999999999,Sales,1,Large,City_015,No,62885.9
+47.3,Male,Master,Director,21.3,Operations,4,Small,City_038,No,105194.86
+23.1,Female,Bachelor,Engineer,1.1,Marketing,3,Medium,City_021,No,63974.75
+46.4,Male,Master,Manager,24.4,Operations,3,Small,City_024,No,100498.85
+27.3,Female,Bachelor,Coordinator,1.3,Sales,1,Small,City_016,Yes,45696.71
+57.4,Male,High School,Analyst,33.4,Operations,3,Small,City_017,No,120493.64
+52.0,Male,PhD,Director,28.2,Finance,2,Medium,City_011,Yes,107512.15
+55.7,Male,Bachelor,Analyst,30.7,Operations,4,Medium,City_028,Yes,124555.06
+28.4,Male,Bachelor,Engineer,4.4,Marketing,2,Medium,City_037,No,55588.39
+41.0,Female,Master,Manager,19.0,Unknown,1,Small,City_018,No,82001.94
+30.2,Male,Bachelor,Engineer,7.2,Unknown,5,Small,City_038,No,92322.02
+29.6,Female,PhD,Director,6.6,IT,3,Large,City_019,Yes,84634.66
+43.4,Female,Bachelor,Coordinator,18.4,HR,5,Small,City_004,Yes,117679.18
+34.0,Male,PhD,Engineer,10.2,Operations,4,Small,City_035,No,87308.43
+40.2,Male,Bachelor,Analyst,16.2,Sales,3,Large,City_032,No,89126.82
+36.6,Male,Bachelor,Director,12.6,Finance,2,Large,City_023,No,70946.36
+23.9,Male,Master,Coordinator,0.0,HR,3,Large,City_034,Yes,63886.1
+46.0,Male,Master,Engineer,20.0,Unknown,2,Large,City_013,Yes,92080.72
+53.3,Female,Bachelor,Manager,28.3,Marketing,1,Large,City_001,No,98767.24
+56.0,Female,PhD,Manager,32.0,Unknown,2,Small,City_016,No,106970.25
+29.1,Female,Bachelor,Specialist,3.1,Sales,3,Large,City_024,Yes,72704.83
+25.1,Male,Bachelor,Engineer,1.1000000000000014,Operations,1,Medium,City_007,No,41502.5
+26.0,Female,Master,Manager,1.5,Finance,3,Large,City_026,No,76776.38
+37.2,Female,Bachelor,Coordinator,14.2,Operations,1,Medium,City_012,No,65199.82
+62.8,Male,High School,Engineer,36.8,Unknown,2,Large,City_039,No,112234.77
+36.1,Male,High School,Coordinator,10.1,Unknown,1,Large,City_031,No,60150.85
+47.0,Female,Master,Engineer,21.0,IT,2,Large,City_025,Yes,96478.01
+34.1,Male,Bachelor,Manager,12.1,Finance,1,Small,City_037,Yes,59302.61
+34.2,Male,High School,Director,10.2,Marketing,1,Medium,City_022,Yes,58389.73
+24.9,Female,PhD,Director,1.9,IT,2,Medium,City_002,No,63994.91
+44.1,Female,Bachelor,Specialist,20.1,Operations,1,Medium,City_040,No,80008.03
+32.0,Female,Bachelor,Engineer,9.0,Finance,2,Small,City_026,Yes,66085.57
+37.5,Male,Master,Engineer,14.5,Finance,3,Medium,City_030,No,82296.94
+50.2,Male,PhD,Engineer,24.2,Operations,2,Medium,City_031,Yes,98935.32
+23.0,Male,Master,Manager,1.0,HR,1,Medium,City_029,No,49178.57
+34.7,Male,Master,Manager,12.7,IT,3,Medium,City_022,Yes,82589.91
+41.8,Male,Bachelor,Engineer,17.799999999999997,Sales,2,Small,City_032,No,77945.86
+38.4,Male,Master,Specialist,14.4,Operations,3,Medium,City_003,No,94701.44
+24.1,Male,Bachelor,Specialist,2.1,Finance,3,Medium,City_038,No,55390.52
+35.0,Male,High School,Engineer,11.0,IT,2,Large,City_030,Yes,69853.89
+53.9,Female,Master,Analyst,27.9,HR,4,Large,City_007,Yes,130385.67
+39.0,Male,Bachelor,Coordinator,17.0,Marketing,3,Small,City_038,No,76791.08
+32.0,Male,Bachelor,Director,9.8,Sales,1,Medium,City_031,No,61375.25
+32.3,Female,PhD,Analyst,6.3,Marketing,1,Medium,City_033,Yes,73034.21
+43.0,Male,High School,Coordinator,19.7,Operations,1,Large,City_031,No,78611.57
+52.0,Male,Master,Engineer,27.7,HR,4,Large,City_004,No,119527.4
+52.4,Male,PhD,Specialist,27.4,Unknown,3,Medium,City_040,No,119873.03
+29.9,Female,Bachelor,Engineer,7.9,Operations,1,Medium,City_005,No,55678.31
+55.1,Female,High School,Director,29.1,Unknown,2,Large,City_012,Yes,103523.68
+37.0,Female,PhD,Engineer,12.0,Unknown,3,Medium,City_035,Yes,101675.73
+46.0,Female,Bachelor,Analyst,22.4,Finance,2,Large,City_020,No,98803.97
+45.0,Female,Bachelor,Analyst,23.0,Sales,1,Medium,City_029,Yes,71203.66
+49.8,Female,High School,Director,25.799999999999997,Finance,1,Medium,City_016,No,80173.36
+56.0,Female,Bachelor,Analyst,33.1,Finance,5,Large,City_039,No,132007.5
+50.6,Male,Master,Engineer,24.6,HR,1,Large,City_017,Yes,89951.92
+42.7,Female,Bachelor,Specialist,16.7,IT,1,Medium,City_011,No,68381.24
+49.8,Female,Bachelor,Specialist,23.8,Operations,2,Large,City_030,No,99425.23
+27.8,Male,Bachelor,Manager,3.8000000000000007,Sales,4,Medium,City_007,No,71588.17
+22.0,Male,Bachelor,Engineer,0.0,Operations,3,Medium,City_022,Yes,61317.72
+30.0,Male,Bachelor,Manager,4.0,IT,1,Medium,City_012,No,62667.32
+28.0,Male,Master,Specialist,1.7,Unknown,2,Medium,City_015,No,58366.32
+36.6,Female,High School,Engineer,13.6,Sales,2,Large,City_010,Yes,74978.59
+42.4,Female,Bachelor,Specialist,18.4,Operations,3,Small,City_016,No,81006.55
+34.9,Female,Master,Specialist,9.9,Marketing,3,Medium,City_031,No,83557.88
+38.6,Male,Bachelor,Specialist,16.6,Marketing,3,Small,City_039,No,89283.35
+49.5,Female,High School,Manager,27.5,Unknown,1,Small,City_015,No,89717.38
+35.6,Female,Bachelor,Coordinator,10.6,Unknown,1,Large,City_011,No,59485.59
+39.0,Female,Master,Specialist,15.0,Sales,1,Medium,City_013,No,71431.54
+45.8,Male,Bachelor,Analyst,20.8,Operations,1,Small,City_034,No,75881.42
+33.0,Male,Bachelor,Director,8.7,Operations,2,Medium,City_040,Yes,69830.28
+37.9,Male,Bachelor,Analyst,11.9,Unknown,3,Medium,City_004,No,75716.16
+22.0,Male,Bachelor,Manager,0.0,Sales,3,Small,City_033,No,57943.37
+22.0,Male,Master,Analyst,0.0,Unknown,5,Medium,City_007,Yes,80673.76
+51.0,Female,Bachelor,Specialist,27.8,Operations,2,Large,City_025,No,105375.5
+54.6,Female,Master,Specialist,30.6,Sales,2,Large,City_027,No,112124.84
+22.6,Female,Bachelor,Coordinator,0.6,Marketing,3,Medium,City_003,No,55170.34
+31.5,Male,Bachelor,Coordinator,6.5,Operations,2,Large,City_017,No,61459.7
+53.9,Male,Master,Analyst,28.9,Sales,2,Medium,City_018,No,105825.51
+39.9,Male,High School,Specialist,17.9,Operations,1,Large,City_022,Yes,72819.1
+37.3,Female,Master,Coordinator,12.3,IT,1,Large,City_009,No,74885.31
+47.0,Female,Bachelor,Specialist,22.0,Unknown,2,Medium,City_038,No,76134.12
+55.6,Female,Bachelor,Analyst,32.6,Sales,2,Small,City_007,Yes,108641.01
+39.7,Male,Master,Manager,15.7,Operations,4,Large,City_029,Yes,101427.66
+26.0,Male,Bachelor,Coordinator,0.0,IT,2,Medium,City_040,Yes,58755.22
+39.1,Female,Bachelor,Manager,13.1,Finance,2,Small,City_006,Yes,69079.13
+49.0,Male,Bachelor,Manager,26.0,HR,2,Small,City_019,No,95107.99
+51.2,Male,High School,Director,29.2,Unknown,2,Medium,City_034,No,97623.72
+22.0,Male,PhD,Coordinator,0.0,Operations,2,Medium,City_006,No,55021.46
+43.8,Male,Bachelor,Manager,19.8,IT,4,Medium,City_035,No,104034.49
+44.4,Male,Bachelor,Specialist,19.4,Finance,3,Small,City_022,Yes,93253.14
+33.5,Male,Master,Manager,10.5,Operations,3,Large,City_036,Yes,92598.32
+54.7,Female,PhD,Director,30.700000000000003,HR,2,Small,City_022,Yes,117346.85
+40.8,Female,Bachelor,Specialist,16.8,IT,2,Small,City_004,Yes,73613.52
+42.1,Male,Master,Analyst,20.1,Operations,2,Large,City_009,No,91773.21
+38.6,Male,Bachelor,Director,12.6,Finance,1,Large,City_009,No,74262.58
+34.7,Male,Bachelor,Manager,10.7,HR,2,Medium,City_007,No,72061.82
+38.8,Female,High School,Coordinator,16.8,Finance,1,Small,City_001,No,67184.31
+53.6,Male,Bachelor,Director,29.6,Sales,5,Small,City_005,No,123075.15
+34.2,Female,Bachelor,Specialist,10.200000000000003,Sales,3,Medium,City_040,No,81001.11
+42.0,Female,PhD,Specialist,17.7,HR,2,Medium,City_006,Yes,87092.3
+42.6,Female,PhD,Coordinator,19.6,Operations,2,Medium,City_038,No,95915.75
+26.0,Male,High School,Manager,2.9,Unknown,3,Medium,City_024,Yes,59080.1
+43.8,Male,Master,Specialist,19.8,Sales,3,Medium,City_015,No,100718.37
+35.3,Male,Bachelor,Coordinator,10.3,HR,2,Large,City_002,No,86594.62
+31.1,Male,Bachelor,Manager,6.1,Operations,3,Medium,City_002,No,84148.14
+58.1,Female,Master,Manager,34.1,Marketing,4,Small,City_025,No,124572.9
+48.8,Male,Master,Analyst,26.8,Sales,4,Small,City_023,Yes,124617.22
+45.5,Male,Bachelor,Analyst,23.5,IT,4,Large,City_010,No,109175.92
+22.0,Male,PhD,Coordinator,0.0,Sales,1,Large,City_013,No,47459.79
+29.4,Male,Bachelor,Analyst,5.399999999999999,Operations,3,Large,City_017,No,66110.17
+40.2,Female,High School,Coordinator,14.2,Finance,1,Small,City_004,Yes,62922.1
+39.4,Female,Bachelor,Specialist,16.4,Operations,2,Large,City_001,Yes,80738.64
+36.3,Male,Bachelor,Analyst,12.299999999999997,Unknown,1,Medium,City_010,No,60793.67
+30.4,Female,Bachelor,Analyst,4.4,Unknown,4,Large,City_016,No,82999.29
+29.0,Female,Bachelor,Director,4.0,Operations,3,Medium,City_035,No,60526.42
+32.0,Male,Bachelor,Director,6.3,Sales,1,Large,City_035,No,61971.48
+31.7,Female,Bachelor,Specialist,6.7,Operations,2,Medium,City_028,No,58844.7
+35.2,Female,Bachelor,Analyst,10.2,HR,5,Small,City_036,No,88052.87
+27.7,Male,Master,Director,1.7,Operations,5,Medium,City_034,Yes,78984.39
+22.0,Male,PhD,Engineer,0.0,Operations,3,Small,City_032,No,67409.01
+47.0,Male,Master,Engineer,22.3,Finance,1,Small,City_014,No,84820.55
+42.6,Female,Bachelor,Engineer,19.6,HR,3,Small,City_006,Yes,102920.94
+22.0,Male,Bachelor,Coordinator,0.0,Finance,2,Small,City_020,No,49598.91
+28.9,Male,Bachelor,Analyst,6.9,Finance,3,Medium,City_032,Yes,82650.81
+45.0,Male,Bachelor,Specialist,21.0,HR,4,Medium,City_017,No,95937.29
+41.1,Female,Bachelor,Specialist,15.1,Marketing,3,Small,City_016,No,85583.22
+50.0,Female,Master,Engineer,24.7,Sales,1,Large,City_024,No,88949.58
+42.4,Male,High School,Director,18.4,HR,2,Small,City_028,Yes,77894.05
+41.5,Male,High School,Manager,15.5,IT,1,Medium,City_035,Yes,55170.29
+51.9,Female,Bachelor,Coordinator,26.9,Marketing,1,Small,City_012,Yes,84235.55
+49.3,Female,Master,Director,23.3,Marketing,1,Small,City_010,No,91521.17
+40.5,Female,PhD,Director,16.5,Sales,4,Medium,City_009,Yes,119551.42
+50.6,Female,Master,Engineer,25.6,HR,4,Small,City_020,Yes,114248.96
+56.0,Male,High School,Director,30.0,Marketing,2,Small,City_029,No,101500.62
+35.1,Female,PhD,Engineer,12.1,Finance,4,Large,City_028,No,97670.33
+31.4,Male,Bachelor,Analyst,5.4,Unknown,4,Medium,City_038,Yes,75872.49
+22.0,Male,High School,Analyst,0.0,Operations,1,Small,City_001,No,39122.98
+47.3,Male,Bachelor,Specialist,23.299999999999997,Marketing,4,Small,City_034,No,98572.69
+34.0,Female,Master,Director,8.4,Operations,1,Small,City_004,No,66845.62
+51.6,Female,Master,Engineer,25.6,Sales,4,Small,City_025,No,122786.92
+35.0,Female,Bachelor,Engineer,13.0,HR,2,Large,City_011,Yes,78202.04
+39.3,Female,Bachelor,Director,15.299999999999997,Marketing,1,Small,City_035,Yes,67784.93
+47.8,Male,Bachelor,Director,22.8,Finance,2,Medium,City_036,Yes,82998.84
+22.0,Male,PhD,Analyst,0.0,Unknown,1,Small,City_003,No,52044.25
+44.9,Male,Bachelor,Manager,20.9,IT,2,Small,City_037,No,84657.39
+36.8,Female,Master,Analyst,13.8,Marketing,2,Large,City_018,No,76621.19
+39.1,Female,Bachelor,Engineer,14.1,Unknown,1,Large,City_011,No,75755.39
+22.0,Male,Bachelor,Manager,0.0,Unknown,4,Medium,City_012,No,53019.58
+36.5,Male,Master,Director,12.5,IT,2,Large,City_025,No,82109.69
+31.0,Male,Bachelor,Director,6.0,Sales,3,Small,City_031,No,67818.74
+44.0,Male,Bachelor,Director,19.0,HR,2,Medium,City_007,No,92203.56
+35.0,Male,High School,Coordinator,11.0,Finance,2,Small,City_025,No,75044.3
+34.4,Female,Master,Specialist,9.4,IT,1,Large,City_003,Yes,74683.61
+35.6,Female,PhD,Specialist,11.6,Finance,1,Large,City_034,No,84267.44
+47.6,Male,Bachelor,Manager,23.6,HR,4,Small,City_040,No,105764.67
+34.5,Male,Bachelor,Specialist,10.5,Operations,4,Large,City_012,Yes,100160.25
+58.0,Female,Master,Specialist,33.4,Unknown,1,Medium,City_025,Yes,104846.48
+22.0,Female,Bachelor,Analyst,0.0,Finance,1,Medium,City_014,No,46247.37
+37.5,Male,Bachelor,Director,12.5,Marketing,3,Medium,City_020,Yes,83884.24
+44.0,Female,Master,Manager,20.0,Sales,1,Medium,City_027,Yes,86460.17
+38.4,Female,Master,Analyst,14.4,Finance,3,Medium,City_038,No,84603.1
+22.0,Male,Bachelor,Manager,0.0,IT,1,Medium,City_004,No,39966.9
+41.4,Female,Master,Director,17.4,Unknown,1,Large,City_036,No,78381.49
+28.2,Female,Bachelor,Manager,3.2,Marketing,1,Small,City_034,No,48748.22
+32.5,Female,Bachelor,Manager,10.5,Sales,1,Medium,City_033,Yes,65353.26
+34.4,Male,High School,Specialist,11.4,Marketing,4,Small,City_035,No,82947.88
+38.2,Male,Bachelor,Manager,13.2,Finance,4,Small,City_029,No,85786.03
+44.6,Female,Bachelor,Specialist,20.6,IT,3,Large,City_023,Yes,89274.41
+48.1,Female,Bachelor,Specialist,26.1,Marketing,3,Large,City_022,No,107111.22
+24.6,Male,Bachelor,Director,2.6,HR,4,Small,City_007,Yes,72457.18
+32.1,Male,Master,Coordinator,6.1,IT,2,Medium,City_014,No,53438.81
+22.0,Male,Master,Manager,0.0,HR,1,Medium,City_038,No,48048.12
+37.6,Male,Bachelor,Specialist,13.600000000000001,IT,5,Medium,City_005,No,100038.81
+32.0,Female,PhD,Specialist,10.0,IT,3,Medium,City_034,Yes,90984.04
+50.1,Female,High School,Engineer,26.1,Unknown,4,Medium,City_009,Yes,110918.89
+45.9,Male,Bachelor,Specialist,20.9,Marketing,1,Medium,City_003,Yes,80281.11
+52.4,Male,Bachelor,Specialist,28.4,HR,5,Small,City_022,No,121747.68
+48.2,Female,Bachelor,Manager,25.2,HR,4,Medium,City_002,No,120421.98
+39.7,Female,Bachelor,Director,15.7,HR,1,Medium,City_024,No,66741.08
+43.2,Female,Master,Director,20.2,Unknown,1,Large,City_012,No,85399.02
+39.7,Male,High School,Director,13.7,Marketing,1,Small,City_005,Yes,61103.86
+22.0,Female,High School,Manager,0.0,Sales,1,Small,City_002,No,31882.99
+32.9,Male,Master,Analyst,7.9,Finance,1,Large,City_022,Yes,70409.13
+27.6,Male,Bachelor,Specialist,2.6,Marketing,3,Medium,City_020,No,57974.0
+58.0,Female,High School,Manager,33.2,IT,1,Medium,City_032,No,95461.14
+22.0,Female,Bachelor,Engineer,0.0,HR,1,Large,City_010,Yes,52840.04
+33.4,Female,PhD,Director,7.4,Operations,2,Medium,City_001,No,69300.07
+46.3,Male,PhD,Manager,21.3,HR,2,Medium,City_033,No,93089.57
+52.3,Male,Master,Coordinator,26.3,Finance,3,Medium,City_031,No,116339.02
+22.0,Male,Bachelor,Coordinator,0.0,Operations,3,Medium,City_030,Yes,67280.52
+57.6,Female,High School,Engineer,34.6,Marketing,1,Small,City_010,No,95136.19
+45.4,Female,Bachelor,Engineer,23.4,Operations,2,Medium,City_026,No,94245.6
+40.8,Female,Master,Engineer,16.8,Operations,2,Medium,City_018,No,84771.45
+29.9,Female,Master,Coordinator,6.9,Unknown,2,Small,City_035,No,52425.95
+47.0,Female,Master,Engineer,25.0,Sales,1,Small,City_012,No,100736.9
+33.4,Female,Bachelor,Manager,10.4,Marketing,2,Large,City_009,No,71438.79
+39.7,Female,High School,Coordinator,15.700000000000003,IT,1,Medium,City_035,No,70756.74
+39.1,Male,Bachelor,Analyst,13.1,HR,5,Large,City_022,No,111127.98
+48.3,Male,Bachelor,Manager,23.3,Unknown,4,Medium,City_029,No,107464.66
+37.5,Female,High School,Coordinator,14.5,Finance,4,Large,City_004,No,95114.89
+58.0,Male,Bachelor,Analyst,34.0,Finance,1,Medium,City_002,No,97287.36
+54.5,Female,Bachelor,Analyst,31.5,Sales,1,Large,City_006,Yes,105083.86
+43.1,Female,Master,Engineer,18.1,HR,1,Large,City_007,No,85284.79
+36.3,Male,High School,Manager,13.3,Finance,2,Small,City_034,Yes,64577.82
+40.0,Female,Bachelor,Coordinator,15.0,Unknown,1,Medium,City_025,No,71659.43
+42.2,Female,Bachelor,Specialist,16.2,IT,3,Small,City_003,No,80381.69
+36.1,Female,Bachelor,Specialist,10.1,Sales,2,Large,City_010,No,73166.59
+51.0,Male,Bachelor,Specialist,25.6,IT,3,Large,City_029,No,112554.61
+38.0,Female,Bachelor,Manager,14.4,Finance,3,Small,City_027,No,86308.6
+24.0,Male,High School,Analyst,0.0,IT,2,Medium,City_022,Yes,49968.65
+33.5,Male,Bachelor,Engineer,8.5,Marketing,3,Medium,City_030,Yes,68209.11
+27.2,Female,Bachelor,Specialist,4.2,Finance,4,Large,City_001,Yes,79539.17
+29.1,Female,Bachelor,Specialist,5.1,Marketing,1,Medium,City_036,No,47565.63
+35.1,Male,Bachelor,Director,13.1,Unknown,1,Large,City_028,No,68234.36
+26.8,Female,PhD,Coordinator,0.8,Operations,4,Large,City_036,Yes,78887.93
+60.4,Female,Master,Engineer,35.4,Finance,3,Large,City_011,No,137272.73
+34.1,Male,Master,Coordinator,10.100000000000001,Unknown,2,Small,City_017,No,69602.63
+22.0,Male,Bachelor,Analyst,0.0,IT,2,Medium,City_036,No,57164.12
+52.1,Female,Bachelor,Specialist,27.1,IT,2,Large,City_011,Yes,109879.65
+44.2,Male,Master,Specialist,20.200000000000003,HR,2,Small,City_001,No,80995.84
+31.0,Female,Bachelor,Specialist,6.5,Operations,3,Large,City_016,No,85367.09
+22.2,Female,Bachelor,Analyst,0.0,Marketing,2,Medium,City_014,No,56877.62
+52.0,Male,Bachelor,Director,26.8,HR,2,Large,City_038,No,94400.1
+45.0,Female,Bachelor,Coordinator,20.0,Unknown,1,Medium,City_017,Yes,78155.69
+28.0,Male,PhD,Manager,3.8,HR,2,Small,City_028,No,64139.53
+31.8,Female,Bachelor,Specialist,6.8,Operations,2,Medium,City_017,No,57638.56
+57.0,Male,Master,Manager,33.0,Marketing,2,Small,City_016,Yes,116289.74
+43.4,Female,PhD,Analyst,20.4,Sales,3,Small,City_021,No,100307.32
+35.8,Male,PhD,Analyst,9.8,IT,3,Large,City_016,Yes,95357.68
+29.4,Female,Bachelor,Director,5.4,Marketing,2,Small,City_033,Yes,61714.93
+44.0,Female,Bachelor,Director,17.8,IT,3,Small,City_014,Yes,100722.21
+44.0,Male,Master,Specialist,21.0,Marketing,1,Large,City_024,No,79723.85
+34.8,Male,Master,Engineer,8.8,Marketing,2,Medium,City_017,No,68408.59
+30.1,Male,High School,Director,6.100000000000001,Operations,2,Small,City_031,Yes,48656.63
+30.4,Male,PhD,Engineer,8.4,HR,1,Large,City_007,No,81588.47
+36.8,Female,Master,Manager,11.8,Sales,1,Medium,City_036,No,64227.97
+31.8,Male,Master,Coordinator,5.8,Marketing,3,Small,City_028,Yes,67267.68
+54.3,Female,Bachelor,Engineer,29.3,Operations,2,Small,City_017,No,101784.3
+30.9,Female,Bachelor,Specialist,8.9,Finance,1,Small,City_014,No,57892.63
+26.5,Male,Bachelor,Analyst,0.5,IT,2,Medium,City_013,Yes,53129.52
+24.0,Female,Bachelor,Director,0.3,IT,3,Small,City_024,No,74314.64
+52.6,Male,High School,Specialist,26.6,IT,2,Medium,City_023,Yes,94701.67
+24.7,Female,Bachelor,Coordinator,1.7,Finance,3,Medium,City_035,No,62371.57
+37.2,Male,High School,Analyst,12.2,Operations,1,Medium,City_027,No,61335.54
+35.6,Female,Master,Analyst,11.600000000000001,Sales,1,Medium,City_009,No,63070.72
+47.8,Female,PhD,Coordinator,22.8,Finance,1,Large,City_002,No,87881.69
+38.5,Female,Bachelor,Coordinator,15.5,Marketing,1,Large,City_013,No,74358.82
+45.7,Male,Bachelor,Manager,21.7,Operations,2,Medium,City_020,Yes,89769.74
+31.0,Male,Bachelor,Manager,7.0,Operations,3,Medium,City_001,Yes,73184.3
+34.8,Female,Master,Manager,8.8,Sales,2,Medium,City_007,Yes,74361.69
+22.0,Male,Master,Specialist,0.0,Operations,1,Medium,City_010,No,44778.31
+37.6,Male,PhD,Coordinator,13.6,Operations,1,Large,City_008,No,81393.78
+47.9,Female,Bachelor,Director,24.9,Operations,2,Medium,City_036,No,95167.28
+26.5,Female,Master,Engineer,0.5,HR,5,Small,City_033,No,85372.58
+42.5,Female,Bachelor,Director,18.5,IT,3,Large,City_014,No,98731.51
+37.5,Male,Master,Analyst,13.5,HR,4,Large,City_016,Yes,92724.94
+40.1,Female,Bachelor,Specialist,17.1,HR,3,Small,City_024,No,91838.01
+47.4,Male,Bachelor,Manager,23.4,HR,3,Medium,City_031,No,91941.46
+34.7,Female,Bachelor,Engineer,11.7,HR,2,Large,City_007,No,73007.82
+43.9,Female,Master,Analyst,20.9,Finance,2,Large,City_015,No,92019.62
+30.7,Male,PhD,Director,8.7,IT,2,Large,City_001,No,75975.75
+50.7,Male,Bachelor,Manager,26.700000000000003,Sales,2,Medium,City_004,No,98300.39
+23.8,Female,Bachelor,Coordinator,1.8,Finance,3,Large,City_009,Yes,74523.53
+40.6,Male,Master,Coordinator,14.6,IT,4,Small,City_002,No,85712.38
+41.7,Female,Master,Engineer,17.7,IT,3,Small,City_030,No,89932.39
+43.0,Female,Bachelor,Specialist,20.1,HR,1,Medium,City_011,No,76437.38
+58.1,Male,High School,Analyst,34.1,IT,1,Medium,City_002,No,94736.22
+38.9,Female,Master,Specialist,14.9,Sales,3,Small,City_022,No,75214.18
+33.0,Male,Master,Analyst,9.3,Marketing,1,Small,City_022,No,64418.99
+22.0,Female,Master,Coordinator,0.0,Marketing,3,Medium,City_011,No,57903.08
+32.5,Female,Master,Analyst,10.5,Unknown,3,Large,City_003,No,87841.97
+25.4,Male,Bachelor,Coordinator,0.4,Unknown,1,Large,City_008,Yes,50369.32
+36.4,Female,High School,Director,13.4,Sales,2,Large,City_013,No,75810.21
+43.7,Female,Master,Specialist,21.7,HR,1,Small,City_028,Yes,88527.65
+44.7,Male,Master,Coordinator,20.7,Operations,3,Large,City_029,No,99622.62
+43.6,Female,Bachelor,Specialist,19.6,Finance,4,Medium,City_019,No,107973.31
+50.1,Male,High School,Analyst,28.1,Sales,4,Medium,City_021,Yes,117612.47
+35.7,Male,Bachelor,Coordinator,11.700000000000003,Marketing,2,Large,City_039,No,75933.3
+45.1,Male,Bachelor,Director,23.1,Finance,1,Small,City_038,No,78738.68
+54.6,Male,Master,Coordinator,32.6,Operations,2,Medium,City_036,Yes,106049.28
+39.8,Female,Bachelor,Specialist,13.8,Unknown,2,Medium,City_039,No,63899.81
+22.0,Female,PhD,Engineer,0.0,Finance,1,Medium,City_025,No,46165.96
+26.6,Female,Bachelor,Engineer,2.6000000000000014,Marketing,2,Large,City_015,No,68172.85
+42.4,Male,Bachelor,Specialist,20.4,Sales,2,Small,City_003,No,81144.22
+22.0,Female,Bachelor,Director,0.0,Operations,4,Large,City_028,No,73499.5
+43.5,Male,High School,Engineer,17.5,Sales,2,Large,City_011,Yes,77405.51
+33.1,Female,PhD,Analyst,8.1,IT,1,Medium,City_012,No,64996.7
+51.0,Female,Bachelor,Specialist,26.2,IT,2,Large,City_032,No,93625.7
+22.0,Male,Bachelor,Coordinator,0.0,Unknown,1,Small,City_004,Yes,43983.79
+40.3,Male,High School,Engineer,17.3,Unknown,3,Large,City_012,Yes,90754.6
+26.6,Female,Bachelor,Analyst,0.6,HR,2,Large,City_006,No,46444.4
+28.4,Male,Bachelor,Engineer,2.4,Marketing,1,Medium,City_025,Yes,48680.88
+27.4,Male,Bachelor,Manager,1.4,HR,2,Medium,City_032,Yes,61183.4
+33.0,Male,Bachelor,Engineer,7.5,Finance,1,Small,City_026,No,62273.89
+45.6,Male,High School,Manager,22.6,Operations,1,Large,City_023,Yes,88396.05
+52.7,Female,PhD,Analyst,30.7,HR,1,Large,City_032,No,111070.22
+42.1,Male,Master,Analyst,17.1,Finance,4,Medium,City_038,No,111659.55
+41.3,Male,Bachelor,Director,19.3,Operations,3,Small,City_002,No,92055.31
+39.0,Male,Bachelor,Coordinator,15.0,HR,4,Small,City_006,No,91365.51
+36.0,Female,Bachelor,Director,12.1,IT,1,Small,City_031,No,58049.43
+36.1,Male,Bachelor,Analyst,12.1,IT,5,Small,City_025,Yes,102500.14
+51.4,Female,Bachelor,Specialist,29.4,Operations,5,Small,City_039,Yes,130566.73
+38.7,Female,Bachelor,Specialist,14.7,Unknown,3,Small,City_037,Yes,90398.11
+36.3,Female,Master,Director,11.3,Marketing,4,Large,City_016,No,83669.33
+49.4,Female,Bachelor,Manager,23.4,Sales,4,Medium,City_027,No,103628.75
+39.4,Male,Master,Engineer,13.4,IT,3,Large,City_017,No,96008.47
+22.0,Male,High School,Director,0.0,IT,2,Small,City_006,No,41295.19
+43.0,Male,Bachelor,Manager,17.9,IT,3,Large,City_033,Yes,98035.24
+37.7,Female,Master,Analyst,11.7,IT,3,Small,City_022,Yes,85337.39
+38.9,Female,High School,Analyst,13.9,HR,2,Medium,City_007,Yes,75396.67
+52.1,Female,Bachelor,Specialist,28.1,Operations,2,Small,City_038,No,107543.91
+46.0,Female,Master,Specialist,20.0,Operations,5,Medium,City_039,No,109003.93
+28.0,Male,Master,Specialist,4.3,Sales,3,Large,City_027,No,78450.65
+44.5,Female,Master,Engineer,21.5,HR,2,Small,City_023,No,93211.88
+56.0,Female,Bachelor,Analyst,32.0,Unknown,1,Medium,City_019,Yes,96679.77
+62.3,Female,Bachelor,Manager,38.3,Operations,2,Medium,City_011,No,119922.65
+23.1,Male,High School,Manager,0.1,Sales,1,Small,City_019,No,39657.37
+28.4,Male,Bachelor,Manager,6.4,Finance,3,Medium,City_009,No,67289.58
+28.8,Female,Bachelor,Engineer,5.8,Marketing,1,Medium,City_039,No,53281.23
+58.8,Male,Bachelor,Engineer,34.8,HR,3,Small,City_024,No,114752.98
+46.9,Female,Master,Analyst,24.9,IT,2,Large,City_020,No,107249.93
+35.4,Male,Bachelor,Director,9.4,Marketing,1,Large,City_018,No,65059.88
+37.6,Female,High School,Specialist,11.6,Operations,1,Small,City_040,No,53151.4
+35.3,Male,Bachelor,Coordinator,11.299999999999997,IT,3,Medium,City_008,No,84589.16
+30.8,Female,Master,Engineer,4.8,Marketing,3,Large,City_011,No,68060.23
+33.0,Female,High School,Engineer,7.0,Finance,3,Large,City_008,No,72134.25
+45.1,Male,High School,Specialist,21.1,Sales,3,Medium,City_036,No,92944.95
+33.5,Male,Bachelor,Engineer,10.5,Marketing,2,Large,City_013,Yes,71193.65
+43.4,Female,Bachelor,Engineer,20.4,HR,2,Medium,City_001,No,83654.0
+43.4,Male,Bachelor,Engineer,19.4,Operations,1,Small,City_040,Yes,76282.69
+28.0,Female,High School,Engineer,3.0,Finance,1,Large,City_032,No,47467.66
+28.6,Female,High School,Engineer,2.6,HR,3,Large,City_027,Yes,64389.66
+39.0,Male,Master,Specialist,12.9,Unknown,2,Medium,City_009,Yes,77535.3
+39.1,Male,Bachelor,Engineer,15.100000000000001,IT,3,Large,City_007,No,82797.1
+27.4,Female,Master,Analyst,4.4,HR,1,Small,City_006,Yes,63641.17
+55.0,Female,Bachelor,Coordinator,29.7,Unknown,3,Large,City_017,No,117525.91
+40.9,Female,Master,Specialist,16.9,Operations,1,Large,City_013,Yes,79964.58
+31.9,Female,Bachelor,Engineer,6.9,Operations,1,Small,City_026,No,48429.58
+22.1,Female,Master,Engineer,0.0,Marketing,5,Medium,City_009,No,89346.22
+51.8,Female,High School,Director,27.799999999999997,IT,3,Large,City_030,No,111825.85
+44.5,Male,Bachelor,Manager,18.5,HR,2,Medium,City_032,No,80228.42
+39.6,Female,Bachelor,Analyst,15.6,IT,2,Small,City_020,No,86766.85
+47.5,Female,PhD,Manager,24.5,Operations,4,Small,City_015,Yes,114689.85
+39.0,Male,Master,Manager,13.0,HR,2,Small,City_035,No,72178.27
+25.2,Male,Master,Specialist,0.0,HR,1,Small,City_016,No,56016.42
+29.8,Male,High School,Director,5.8,HR,4,Medium,City_034,No,69841.38
+22.0,Female,Master,Director,0.0,IT,2,Medium,City_039,No,57647.41
+49.5,Male,Bachelor,Manager,25.5,IT,4,Large,City_009,No,108660.49
+39.9,Female,PhD,Engineer,15.9,IT,2,Small,City_025,No,89634.55
+28.4,Female,Bachelor,Analyst,6.4,Sales,2,Medium,City_001,Yes,62037.54
+43.5,Female,PhD,Engineer,18.5,Operations,3,Medium,City_019,Yes,107031.75
+32.9,Female,Master,Manager,8.9,IT,1,Medium,City_013,No,64833.77
+37.1,Male,Master,Engineer,12.1,IT,1,Medium,City_011,No,67831.12
+24.9,Male,PhD,Coordinator,1.9,Sales,1,Medium,City_004,No,57778.74
+37.9,Male,Bachelor,Director,15.9,Marketing,4,Medium,City_015,No,100130.95
+41.1,Female,Master,Analyst,17.1,Unknown,4,Large,City_040,No,110965.35
+47.0,Male,High School,Coordinator,25.0,Marketing,1,Small,City_012,No,87045.39
+33.4,Female,Master,Engineer,9.399999999999999,Marketing,5,Medium,City_023,No,96852.83
+27.5,Male,Master,Analyst,2.5,Finance,1,Medium,City_005,No,61287.44
+33.3,Female,High School,Specialist,8.3,Finance,4,Medium,City_035,No,73155.31
+30.0,Female,High School,Manager,8.0,HR,3,Small,City_023,Yes,81666.45
+22.0,Male,Bachelor,Director,0.0,Unknown,4,Small,City_015,Yes,66755.03
+35.6,Female,Bachelor,Engineer,11.600000000000001,IT,4,Medium,City_005,No,86067.08
+33.8,Female,High School,Manager,7.8,HR,1,Medium,City_006,Yes,60737.95
+52.9,Male,PhD,Engineer,29.9,Marketing,2,Medium,City_014,No,110896.19
+40.0,Female,Master,Specialist,15.0,Operations,1,Medium,City_012,Yes,70402.09
+28.2,Female,Bachelor,Director,3.2,IT,1,Small,City_017,No,51650.16
+22.0,Female,Bachelor,Analyst,0.0,HR,3,Medium,City_007,No,60720.83
+36.2,Male,Bachelor,Manager,14.2,Finance,2,Small,City_021,Yes,78084.95
+22.6,Female,Bachelor,Coordinator,0.0,IT,3,Large,City_032,No,70192.66
+45.0,Female,Bachelor,Analyst,19.1,Sales,1,Large,City_009,Yes,74790.73
+25.2,Male,Bachelor,Specialist,1.2,Marketing,1,Small,City_007,No,48840.98
+44.9,Female,PhD,Analyst,22.9,Finance,1,Small,City_010,No,92066.43
+57.4,Female,Bachelor,Coordinator,35.4,Unknown,1,Medium,City_018,No,97827.32
+55.0,Female,Bachelor,Analyst,31.0,Unknown,2,Large,City_028,No,118118.63
+42.6,Male,Master,Analyst,16.6,HR,2,Medium,City_003,No,83356.29
+37.1,Female,Master,Manager,12.1,Operations,2,Large,City_020,Yes,77653.76
+31.1,Female,High School,Engineer,9.1,Operations,2,Small,City_015,No,63513.37
+42.3,Male,High School,Engineer,19.3,IT,2,Large,City_029,No,81165.53
+22.0,Male,Bachelor,Coordinator,0.0,Sales,3,Medium,City_031,No,57062.0
+26.3,Female,Bachelor,Specialist,3.3,Unknown,4,Medium,City_036,Yes,86575.33
+34.5,Female,High School,Coordinator,12.5,Marketing,2,Medium,City_028,No,64840.78
+36.4,Male,Bachelor,Specialist,12.4,IT,3,Medium,City_028,No,76155.2
+59.7,Female,High School,Analyst,35.7,IT,3,Large,City_004,Yes,124939.06
+39.3,Male,Bachelor,Specialist,16.3,Finance,3,Small,City_011,Yes,90304.13
+40.8,Male,Bachelor,Engineer,14.8,Unknown,4,Medium,City_015,No,91221.83
+34.0,Female,Bachelor,Director,11.0,Operations,1,Large,City_015,No,55791.17
+31.2,Male,Bachelor,Specialist,5.2,Marketing,1,Medium,City_014,No,43253.18
+59.7,Male,Master,Specialist,35.7,Sales,3,Medium,City_002,No,120999.19
+22.0,Female,Bachelor,Director,0.0,Marketing,3,Small,City_001,Yes,64203.62
+22.6,Female,Bachelor,Manager,0.0,Operations,1,Large,City_022,Yes,50775.37
+60.1,Male,Bachelor,Specialist,35.1,Operations,1,Small,City_002,Yes,107370.4
+35.2,Male,High School,Coordinator,12.2,Unknown,1,Large,City_001,No,71057.96
+47.5,Female,Master,Specialist,22.5,Unknown,1,Small,City_011,Yes,79921.83
+31.0,Female,PhD,Director,6.4,HR,3,Small,City_029,No,79779.46
+50.0,Female,High School,Analyst,27.0,Operations,4,Small,City_001,No,103547.22
+28.6,Female,Master,Director,5.6,IT,5,Large,City_014,Yes,94440.88
+25.0,Female,Bachelor,Engineer,2.0,IT,4,Small,City_035,Yes,61944.68
+27.7,Female,High School,Specialist,3.7,IT,5,Medium,City_003,No,70720.26
+53.4,Female,Bachelor,Manager,29.4,Unknown,1,Medium,City_031,No,93864.95
+41.1,Female,Bachelor,Manager,17.1,IT,2,Small,City_038,No,86071.15
+25.0,Female,Master,Analyst,1.7,Sales,1,Large,City_030,No,53766.31
+40.7,Male,Master,Director,15.7,Sales,1,Large,City_035,No,74322.07
+26.7,Male,Bachelor,Manager,1.7,Sales,1,Medium,City_025,Yes,45844.54
+41.9,Male,Master,Manager,15.9,IT,4,Medium,City_007,Yes,97283.8
+38.5,Female,Master,Manager,15.5,Sales,1,Small,City_036,Yes,75755.82
+39.5,Female,Bachelor,Coordinator,16.5,Marketing,2,Medium,City_036,No,77282.13
+36.5,Male,Master,Specialist,14.5,Marketing,1,Large,City_034,No,74287.17
+33.6,Male,Bachelor,Manager,10.6,Finance,2,Large,City_005,No,83928.19
+43.8,Male,Bachelor,Analyst,18.8,Sales,1,Medium,City_016,No,78204.11
+28.8,Female,Master,Manager,4.800000000000001,Sales,3,Small,City_010,No,72458.42
+22.0,Male,PhD,Analyst,0.0,Finance,4,Small,City_007,Yes,76602.04
+50.2,Female,Master,Coordinator,28.2,HR,1,Medium,City_022,Yes,95979.37
+55.0,Female,Bachelor,Engineer,29.5,Finance,1,Medium,City_013,Yes,104331.64
+46.3,Male,Master,Engineer,24.3,Sales,2,Small,City_006,No,93444.38
+48.5,Female,Bachelor,Engineer,24.5,Operations,1,Medium,City_024,No,82008.1
+44.6,Female,High School,Engineer,20.6,Sales,1,Medium,City_002,No,63685.62
+39.0,Female,Bachelor,Coordinator,14.8,Sales,3,Small,City_011,No,81580.39
+28.6,Male,High School,Engineer,3.6,Operations,3,Large,City_004,No,62910.13
+25.3,Female,Bachelor,Director,3.3,Marketing,2,Medium,City_035,No,61274.7
+52.2,Male,Master,Analyst,28.200000000000003,Marketing,3,Large,City_006,Yes,125713.13
+24.6,Male,PhD,Director,0.0,Operations,4,Medium,City_031,No,76131.0
+25.3,Male,Master,Coordinator,2.3,HR,2,Medium,City_026,Yes,52889.23
+27.3,Female,High School,Director,4.3,Sales,5,Medium,City_011,No,73733.31
+32.8,Female,Master,Manager,10.8,Marketing,1,Small,City_031,Yes,72410.92
+27.3,Male,Bachelor,Analyst,1.3,Operations,1,Medium,City_018,No,43672.06
+27.9,Female,Bachelor,Director,4.9,Sales,2,Small,City_040,Yes,65125.26
+49.5,Male,Master,Specialist,24.5,Sales,3,Medium,City_022,No,104088.66
+32.3,Male,High School,Specialist,8.3,Finance,1,Small,City_017,No,55558.32
+54.1,Male,Bachelor,Engineer,32.1,Operations,3,Small,City_003,No,122264.6
+44.2,Male,Bachelor,Manager,19.2,IT,2,Large,City_026,Yes,89234.41
+41.4,Female,Master,Manager,19.4,Sales,1,Medium,City_028,No,79074.05
+37.0,Female,Bachelor,Engineer,12.0,IT,3,Medium,City_011,No,78942.33
+34.8,Male,Bachelor,Manager,8.8,IT,2,Large,City_007,Yes,69752.32
+49.4,Female,High School,Director,26.4,Finance,4,Medium,City_012,Yes,106868.23
+22.0,Female,Bachelor,Manager,0.0,Sales,1,Small,City_014,No,40953.03
+57.9,Male,High School,Analyst,35.9,Finance,1,Small,City_017,Yes,97537.24
+38.6,Female,High School,Manager,16.6,HR,2,Medium,City_020,No,78736.39
+56.0,Male,Bachelor,Coordinator,32.0,Sales,4,Small,City_001,No,124206.41
+46.2,Male,PhD,Director,22.200000000000003,HR,4,Small,City_028,Yes,118970.07
+25.5,Female,High School,Manager,0.5,IT,1,Medium,City_017,No,39796.27
+31.1,Male,Bachelor,Coordinator,6.1,Finance,1,Large,City_039,No,50709.48
+45.1,Male,High School,Manager,20.1,Unknown,3,Large,City_012,Yes,97514.66
+41.5,Male,PhD,Director,17.5,IT,2,Medium,City_021,Yes,89678.23
+37.8,Male,Master,Engineer,14.8,Marketing,3,Medium,City_007,No,82170.18
+24.2,Female,Bachelor,Director,0.0,Finance,3,Medium,City_024,No,65788.08
+46.9,Male,Master,Analyst,20.9,Finance,2,Medium,City_040,No,89559.53
+23.7,Male,Bachelor,Specialist,0.0,Marketing,3,Medium,City_003,Yes,55857.18
+44.0,Male,PhD,Manager,18.0,HR,3,Medium,City_014,Yes,93090.65
+43.0,Female,High School,Specialist,19.1,Unknown,3,Large,City_009,No,94727.35
+22.0,Male,Bachelor,Director,0.0,IT,3,Small,City_020,No,57517.91
+48.7,Female,Bachelor,Coordinator,26.7,HR,3,Medium,City_038,Yes,113534.86
+43.2,Female,Master,Coordinator,18.2,Unknown,1,Medium,City_004,Yes,82813.17
+42.7,Female,Bachelor,Manager,20.7,Marketing,1,Medium,City_021,Yes,78357.1
+41.2,Female,High School,Manager,19.2,HR,1,Large,City_007,No,72255.31
+22.7,Male,Bachelor,Coordinator,0.0,Sales,1,Medium,City_012,No,43905.51
+32.6,Male,Bachelor,Specialist,6.6,Finance,4,Large,City_012,Yes,92755.84
+46.6,Female,Master,Coordinator,23.6,IT,5,Small,City_015,No,114641.54
+41.4,Female,High School,Analyst,16.4,Finance,1,Large,City_015,No,70850.92
+47.3,Male,Master,Manager,23.3,IT,3,Large,City_022,No,108263.44
+22.0,Male,PhD,Specialist,0.0,Unknown,2,Small,City_002,Yes,60072.64
+25.3,Male,Bachelor,Director,1.3000000000000007,HR,1,Medium,City_023,No,46861.87
+65.0,Male,Master,Specialist,40.0,HR,1,Small,City_031,No,117090.91
+35.3,Female,High School,Specialist,12.3,Sales,1,Small,City_033,No,59373.93
+42.3,Female,PhD,Coordinator,20.3,Operations,3,Small,City_001,Yes,108885.65
+44.3,Male,Bachelor,Engineer,19.3,Finance,4,Large,City_003,No,89774.48
+39.6,Female,Master,Specialist,15.6,Operations,3,Large,City_015,Yes,100123.65
+39.0,Female,Master,Analyst,16.4,Sales,1,Medium,City_018,No,79444.23
+39.8,Male,Bachelor,Specialist,16.8,Unknown,1,Medium,City_034,Yes,72083.49
+41.4,Male,High School,Manager,15.4,Marketing,2,Small,City_008,No,66257.3
+27.5,Female,Bachelor,Engineer,2.5,Operations,2,Small,City_037,Yes,57495.77
+44.0,Female,PhD,Engineer,21.0,HR,1,Medium,City_030,No,87288.95
+37.5,Male,Bachelor,Manager,15.5,HR,4,Medium,City_002,No,83706.54
+27.0,Female,High School,Specialist,4.0,Sales,2,Small,City_040,Yes,54849.45
+23.0,Female,High School,Specialist,0.8,Operations,2,Medium,City_036,No,38279.75
+40.1,Female,Bachelor,Coordinator,15.1,Operations,2,Medium,City_007,Yes,83962.89
+26.8,Female,Master,Manager,4.8,IT,4,Large,City_036,Yes,77753.9
+44.4,Female,PhD,Specialist,21.4,Marketing,2,Large,City_034,No,101582.7
+28.8,Female,High School,Manager,4.800000000000001,Unknown,4,Large,City_010,Yes,73651.58
+25.0,Male,High School,Analyst,0.7,HR,2,Medium,City_016,No,42082.83
+41.7,Female,High School,Specialist,18.7,IT,4,Small,City_033,Yes,93212.63
+47.3,Male,Master,Analyst,23.299999999999997,Finance,1,Large,City_029,No,91315.99
+52.0,Male,Bachelor,Manager,26.1,HR,1,Medium,City_034,No,88144.09
+46.3,Male,Bachelor,Specialist,21.3,Marketing,2,Small,City_032,Yes,84920.94
+33.1,Female,Bachelor,Engineer,9.1,Marketing,4,Small,City_013,No,93999.83
+37.2,Female,Bachelor,Specialist,14.2,Sales,4,Small,City_034,No,85431.11
+24.0,Male,Master,Engineer,2.0,HR,1,Large,City_007,Yes,54695.58
+33.7,Male,Bachelor,Specialist,10.7,Marketing,2,Large,City_026,No,70803.13
+47.3,Male,Bachelor,Manager,21.3,Marketing,2,Small,City_028,Yes,84036.63
+38.1,Female,Bachelor,Engineer,14.1,Sales,5,Medium,City_038,Yes,97940.76
+43.6,Female,Bachelor,Specialist,20.6,Marketing,2,Medium,City_034,No,83835.97
+25.0,Male,High School,Director,1.0,IT,5,Medium,City_010,No,65328.78
+22.0,Female,Bachelor,Engineer,0.0,IT,2,Medium,City_009,No,59248.23
+35.3,Female,High School,Analyst,10.3,Unknown,3,Large,City_015,Yes,76543.9
+31.3,Male,Bachelor,Engineer,8.3,Marketing,3,Medium,City_009,No,75229.31
+36.6,Male,Bachelor,Specialist,12.6,HR,2,Large,City_007,Yes,86167.84
+41.8,Male,High School,Manager,19.8,Finance,3,Large,City_035,No,90348.72
+45.0,Male,PhD,Engineer,22.0,Finance,4,Small,City_027,No,111978.36
+32.5,Female,Bachelor,Manager,10.5,HR,2,Large,City_021,No,76151.22
+41.6,Female,Bachelor,Engineer,19.6,Unknown,3,Large,City_018,Yes,113901.63
+33.0,Female,Bachelor,Engineer,9.8,Finance,1,Large,City_027,Yes,79530.8
+35.0,Female,Master,Coordinator,11.0,Operations,3,Small,City_009,No,83314.44
+44.5,Female,High School,Manager,21.5,HR,5,Small,City_005,No,114219.36
+24.4,Male,High School,Analyst,2.4,Operations,4,Medium,City_031,No,67033.82
+48.8,Male,High School,Coordinator,23.8,Operations,1,Large,City_038,No,83459.08
+22.0,Female,High School,Coordinator,0.0,IT,3,Small,City_033,No,57479.89
+39.6,Female,High School,Manager,15.6,HR,2,Small,City_013,No,75447.79
+55.8,Female,Master,Analyst,29.8,Operations,2,Small,City_017,No,104426.6
+28.0,Male,Master,Analyst,6.3,Sales,2,Large,City_009,Yes,69762.0
+32.0,Female,PhD,Specialist,7.4,IT,3,Small,City_029,No,76776.48
+39.2,Male,Bachelor,Manager,15.200000000000003,Marketing,1,Medium,City_034,No,68808.17
+28.0,Female,Bachelor,Analyst,4.8,HR,2,Large,City_036,No,74808.8
+37.1,Female,Bachelor,Engineer,14.1,Operations,1,Medium,City_025,Yes,72070.91
+45.6,Male,Bachelor,Director,20.6,Operations,4,Large,City_026,No,114491.64
+35.0,Male,High School,Manager,11.0,Unknown,1,Medium,City_002,Yes,62292.05
+22.0,Female,Bachelor,Manager,0.0,Operations,1,Medium,City_006,No,36209.04
+44.1,Male,Bachelor,Coordinator,21.1,IT,2,Large,City_035,Yes,95683.63
+31.9,Female,PhD,Manager,8.9,Unknown,3,Large,City_017,No,85408.67
+62.0,Female,Master,Engineer,39.0,Finance,2,Medium,City_035,Yes,121824.83
+53.0,Female,Bachelor,Analyst,28.8,Operations,2,Small,City_032,No,96727.53
+34.9,Male,Bachelor,Director,9.9,HR,1,Medium,City_040,Yes,62865.38
+43.1,Male,PhD,Manager,19.1,Operations,3,Medium,City_006,No,102013.61
+29.1,Female,Bachelor,Coordinator,5.1,Marketing,2,Large,City_012,No,62806.41
+47.0,Male,Bachelor,Analyst,23.0,IT,3,Large,City_025,No,96703.74
+42.3,Male,Bachelor,Coordinator,19.3,Sales,2,Large,City_039,No,79209.36
+50.1,Male,High School,Manager,27.1,HR,4,Medium,City_032,Yes,108766.77
+27.0,Female,Master,Engineer,2.0,HR,1,Large,City_013,Yes,49994.84
+35.8,Female,Bachelor,Specialist,10.8,IT,3,Medium,City_026,No,93754.81
+57.1,Male,Bachelor,Manager,34.1,HR,4,Small,City_002,No,138495.82
+55.6,Male,Bachelor,Specialist,32.6,Sales,1,Small,City_005,Yes,106067.35
+32.9,Male,Master,Coordinator,8.9,Sales,4,Small,City_025,No,86817.16
+24.9,Female,High School,Engineer,0.0,Sales,2,Medium,City_014,No,47571.1
+36.7,Male,Master,Coordinator,10.7,IT,2,Medium,City_007,No,76535.42
+32.8,Male,Master,Analyst,9.8,IT,1,Medium,City_040,No,59762.63
+43.5,Female,Master,Engineer,21.5,Operations,4,Small,City_020,No,112681.5
+43.9,Male,Master,Engineer,20.9,Unknown,3,Medium,City_013,No,97860.91
+30.2,Male,High School,Specialist,6.2,Sales,4,Medium,City_032,No,70413.14
+30.6,Male,Master,Manager,7.6,Unknown,3,Small,City_014,No,75332.83
+30.6,Male,Bachelor,Manager,5.6,Operations,2,Large,City_026,No,67153.55
+33.9,Male,Master,Analyst,7.9,Finance,2,Large,City_005,Yes,81266.35
+39.6,Male,High School,Specialist,13.6,Unknown,4,Small,City_037,Yes,98887.81
+35.0,Male,Bachelor,Engineer,8.7,Operations,2,Medium,City_005,No,63844.82
+23.3,Female,Bachelor,Manager,1.3,Marketing,1,Small,City_013,No,44015.36
+47.0,Female,Bachelor,Director,24.0,Sales,2,Small,City_027,Yes,91899.45
+24.4,Male,Bachelor,Manager,2.4,Operations,4,Medium,City_019,No,63494.14
+36.2,Female,Bachelor,Manager,13.2,Sales,1,Large,City_010,No,66926.36
+30.0,Male,High School,Manager,4.1,Finance,2,Large,City_036,No,62084.26
+48.6,Female,High School,Specialist,24.6,HR,2,Large,City_012,No,95284.6
+45.3,Male,Bachelor,Specialist,23.3,IT,2,Large,City_016,No,105721.05
+34.5,Female,Bachelor,Analyst,9.5,HR,1,Medium,City_004,No,55166.9
+52.0,Female,Bachelor,Manager,27.4,Finance,3,Medium,City_037,No,104130.36
+49.2,Female,Bachelor,Specialist,24.2,Sales,4,Small,City_027,Yes,110186.07
+26.2,Male,Bachelor,Engineer,4.2,Finance,2,Large,City_005,No,68369.9
+41.2,Female,Master,Analyst,16.2,Finance,2,Small,City_012,No,81192.89
+36.0,Male,Master,Specialist,14.0,Finance,3,Medium,City_008,No,85963.64
+32.2,Male,PhD,Analyst,7.2,Sales,2,Medium,City_035,Yes,82744.28
+26.9,Male,Bachelor,Coordinator,0.9,HR,2,Small,City_009,No,58421.94
+46.6,Male,High School,Director,22.6,Sales,2,Medium,City_024,No,86699.84
+44.3,Male,Bachelor,Specialist,21.3,Marketing,3,Medium,City_032,No,99678.21
+33.7,Female,Master,Specialist,9.700000000000003,IT,2,Small,City_025,No,78228.14
+31.2,Male,Bachelor,Engineer,6.2,Operations,1,Large,City_007,No,55049.19
+33.0,Male,Bachelor,Analyst,10.0,Finance,2,Small,City_005,Yes,73255.94
+31.4,Female,High School,Analyst,7.4,IT,4,Medium,City_036,No,81167.89
+46.5,Female,Bachelor,Manager,22.5,Marketing,1,Large,City_023,Yes,84069.52
+31.3,Female,Master,Director,7.3,Marketing,2,Medium,City_028,No,68566.92
+40.5,Male,Bachelor,Director,14.5,Marketing,1,Large,City_023,No,85004.42
+28.4,Female,High School,Specialist,2.4,Marketing,3,Large,City_005,No,69323.75
+36.7,Male,Bachelor,Director,13.7,Unknown,2,Small,City_023,Yes,78919.85
+22.0,Female,Bachelor,Director,0.0,IT,1,Large,City_010,No,46689.91
+47.9,Female,Bachelor,Manager,23.9,Finance,3,Small,City_008,Yes,99891.84
+26.5,Male,Master,Specialist,1.5,Operations,5,Small,City_015,No,85239.13
+24.6,Female,Master,Engineer,0.6,Marketing,1,Large,City_024,Yes,53016.28
+46.5,Female,PhD,Director,23.5,Unknown,1,Large,City_002,Yes,104437.76
+27.5,Male,Master,Analyst,5.5,Operations,1,Large,City_038,No,60737.7
+40.3,Male,Master,Analyst,16.299999999999997,Sales,3,Large,City_038,No,101691.26
+45.1,Male,Bachelor,Engineer,20.1,Unknown,1,Medium,City_034,No,77860.84
+37.7,Female,Bachelor,Engineer,11.7,IT,1,Large,City_005,No,71465.62
+37.6,Female,Master,Director,11.6,HR,3,Large,City_033,Yes,86911.67
+31.7,Male,Bachelor,Director,7.7,Operations,2,Medium,City_022,Yes,70875.19
+36.1,Male,Bachelor,Engineer,11.1,HR,2,Large,City_028,No,75461.9
+51.1,Female,High School,Coordinator,27.1,Marketing,5,Small,City_027,No,123558.33
+30.9,Male,Master,Director,7.9,IT,3,Medium,City_039,Yes,81438.36
+32.4,Male,Bachelor,Engineer,6.4,Operations,1,Medium,City_003,No,58578.09
+28.6,Male,Bachelor,Coordinator,4.6,Sales,1,Medium,City_015,Yes,52309.21
+58.0,Male,High School,Analyst,36.4,Finance,2,Medium,City_040,Yes,115036.02
+29.0,Male,PhD,Specialist,4.0,Marketing,3,Large,City_030,No,78379.6
+34.5,Female,Master,Specialist,8.5,HR,1,Small,City_038,Yes,64882.35
+22.0,Male,Bachelor,Analyst,0.0,Operations,2,Medium,City_030,No,48514.37
+45.0,Female,Bachelor,Coordinator,21.7,Operations,3,Medium,City_022,No,96753.29
+58.4,Male,Bachelor,Specialist,32.4,Marketing,1,Medium,City_016,Yes,95148.23
+31.1,Female,High School,Engineer,7.100000000000001,Operations,3,Medium,City_031,No,74903.3
+22.5,Male,Bachelor,Engineer,0.0,Finance,4,Medium,City_005,No,66219.53
+23.1,Female,Bachelor,Engineer,0.1,Finance,3,Large,City_037,No,63562.68
+55.3,Male,Master,Engineer,32.3,Operations,1,Medium,City_025,No,106923.16
+22.0,Female,Master,Engineer,0.0,IT,1,Small,City_007,No,50940.3
+22.0,Female,Master,Specialist,0.0,Unknown,1,Small,City_021,No,44435.01
+56.3,Female,High School,Manager,33.3,Marketing,4,Large,City_010,No,128335.94
+48.2,Male,Bachelor,Director,23.2,Operations,3,Large,City_026,Yes,108638.95
+26.9,Male,Bachelor,Coordinator,2.9,Marketing,2,Medium,City_040,Yes,46431.34
+36.6,Male,PhD,Coordinator,13.6,Sales,2,Small,City_005,Yes,89063.19
+55.3,Female,PhD,Manager,33.3,Sales,3,Large,City_005,Yes,119324.87
+30.7,Male,Bachelor,Analyst,7.7,IT,2,Small,City_032,No,58775.1
+44.8,Female,Master,Specialist,21.8,HR,1,Large,City_004,Yes,90443.17
+39.4,Female,Master,Analyst,13.4,IT,3,Small,City_013,Yes,94475.66
+22.0,Female,Bachelor,Coordinator,0.0,Sales,4,Large,City_037,No,75512.19
+54.1,Male,Bachelor,Manager,29.1,Sales,2,Medium,City_035,Yes,97324.29
+35.5,Female,Master,Manager,10.5,Marketing,2,Large,City_037,No,75210.66
+23.8,Female,PhD,Director,1.8,Sales,1,Small,City_036,No,51001.88
+49.9,Female,PhD,Analyst,27.9,Finance,5,Medium,City_039,No,134377.51
+22.0,Female,Master,Specialist,0.0,Sales,2,Small,City_013,Yes,57941.52
+37.8,Female,High School,Manager,12.8,Unknown,4,Medium,City_019,Yes,92891.15
+28.5,Female,Master,Specialist,5.5,Operations,2,Small,City_010,Yes,66494.96
+40.0,Male,Bachelor,Director,17.9,Unknown,1,Medium,City_013,No,81286.71
+39.0,Female,Bachelor,Analyst,14.4,IT,2,Large,City_017,No,80490.59
+35.0,Male,Bachelor,Specialist,9.3,HR,1,Medium,City_003,No,62224.57
+45.1,Male,PhD,Engineer,19.1,Unknown,2,Large,City_019,Yes,101693.18
+55.0,Male,PhD,Analyst,28.5,Marketing,2,Small,City_033,Yes,114674.99
+29.4,Female,Bachelor,Coordinator,7.4,Operations,3,Small,City_020,No,64299.1
+32.9,Male,Master,Coordinator,6.9,Finance,3,Large,City_038,Yes,82666.77
+28.2,Female,Bachelor,Director,6.2,Finance,3,Small,City_020,Yes,59572.28
+36.7,Male,PhD,Specialist,12.7,IT,4,Medium,City_027,No,101615.38
+42.7,Male,Master,Specialist,19.7,Operations,2,Medium,City_023,Yes,80746.28
+60.0,Male,Bachelor,Engineer,33.6,Unknown,1,Small,City_033,No,102844.18
+33.5,Female,Bachelor,Director,8.5,Unknown,4,Small,City_006,Yes,82049.12
+37.4,Male,Master,Analyst,14.4,Finance,4,Small,City_009,Yes,99900.17
+45.0,Male,Bachelor,Coordinator,20.0,Finance,2,Large,City_034,Yes,95013.89
+41.7,Male,Master,Specialist,17.700000000000003,HR,2,Large,City_026,Yes,94198.97
+42.0,Male,Master,Engineer,15.9,Sales,2,Medium,City_027,No,89801.49
+57.0,Male,Bachelor,Director,33.0,Sales,2,Small,City_035,Yes,107985.78
+47.0,Female,Bachelor,Coordinator,24.5,Operations,4,Medium,City_015,No,102025.42
+47.0,Male,High School,Coordinator,22.0,Unknown,1,Medium,City_035,No,89967.08
+29.6,Male,Master,Specialist,5.600000000000001,Finance,3,Medium,City_008,No,67449.9
+45.3,Female,Bachelor,Manager,23.3,Sales,1,Large,City_001,Yes,93011.58
+24.4,Male,Bachelor,Specialist,0.0,HR,1,Large,City_028,No,45306.98
+38.0,Male,Master,Analyst,14.0,Finance,1,Medium,City_008,No,78401.48
+36.6,Female,PhD,Manager,10.6,Sales,4,Small,City_006,No,93740.66
+43.9,Female,Master,Engineer,20.9,Sales,5,Medium,City_018,No,113997.78
+30.6,Male,High School,Engineer,8.6,IT,4,Large,City_028,Yes,85678.01
+26.5,Female,Bachelor,Coordinator,2.5,Finance,1,Small,City_015,Yes,48063.98
+41.0,Male,Bachelor,Analyst,18.9,Operations,4,Large,City_032,Yes,101702.37
+50.0,Male,Bachelor,Director,27.0,Operations,2,Small,City_034,Yes,100116.68
+60.4,Male,Bachelor,Director,36.4,Sales,1,Large,City_017,Yes,115912.57
+42.2,Female,Bachelor,Manager,19.2,Unknown,2,Small,City_018,No,86326.69
+39.5,Female,Bachelor,Engineer,16.5,Finance,2,Medium,City_024,Yes,80965.65
+29.0,Male,Bachelor,Director,6.0,Operations,2,Medium,City_027,Yes,55313.3
+26.0,Female,Master,Engineer,4.0,Operations,1,Medium,City_027,No,53921.2
+53.5,Female,Master,Specialist,30.5,Unknown,4,Medium,City_001,No,122749.86
+36.4,Male,Bachelor,Analyst,12.4,Finance,4,Small,City_010,No,78367.23
+36.0,Male,Bachelor,Engineer,11.3,Finance,3,Medium,City_028,No,70275.11
+56.4,Male,Master,Analyst,32.4,Finance,1,Large,City_013,No,97838.01
+42.0,Female,Master,Director,19.3,Finance,3,Small,City_038,No,98879.16
+50.0,Female,Bachelor,Manager,28.0,Operations,1,Small,City_002,Yes,91197.81
+37.4,Male,PhD,Analyst,13.399999999999999,Sales,2,Large,City_009,Yes,89827.18
+45.0,Male,High School,Manager,21.0,IT,4,Small,City_037,No,108286.2
+43.8,Male,High School,Analyst,17.8,HR,1,Medium,City_012,No,66353.45
+35.5,Female,Bachelor,Specialist,12.5,Operations,2,Small,City_020,No,66879.73
+44.4,Female,Master,Manager,20.4,Finance,2,Medium,City_038,No,94316.7
+38.2,Female,Bachelor,Coordinator,14.2,IT,4,Large,City_011,Yes,95886.32
+37.9,Male,PhD,Analyst,13.9,Unknown,4,Small,City_025,No,104252.08
+35.9,Female,Bachelor,Coordinator,10.9,Marketing,3,Small,City_002,Yes,81983.99
+28.9,Female,Bachelor,Coordinator,6.9,Marketing,2,Medium,City_012,Yes,59389.66
+50.0,Male,Bachelor,Specialist,27.0,HR,5,Large,City_010,No,121601.18
+25.4,Female,Master,Analyst,3.4,Unknown,1,Medium,City_011,No,48882.33
+37.0,Female,Bachelor,Engineer,13.0,Sales,5,Medium,City_019,Yes,99032.93
+41.0,Female,Bachelor,Director,14.9,Operations,4,Small,City_039,Yes,102165.47
+22.0,Female,PhD,Manager,0.0,HR,2,Small,City_025,No,61969.31
+29.3,Female,Bachelor,Specialist,3.3,Finance,1,Small,City_034,No,52173.02
+61.2,Male,PhD,Director,38.2,HR,3,Small,City_022,No,143069.77
+44.4,Female,Bachelor,Director,21.4,Sales,3,Medium,City_035,No,98286.8
+43.7,Male,Master,Manager,20.7,Unknown,3,Medium,City_036,Yes,95476.65
+48.3,Male,Master,Analyst,24.3,Finance,4,Medium,City_030,No,108082.85
+42.2,Male,Bachelor,Manager,20.2,Sales,1,Small,City_007,No,72550.08
+50.6,Male,PhD,Manager,25.6,Marketing,1,Small,City_018,No,92807.97
+41.5,Female,Master,Analyst,18.5,IT,4,Large,City_036,No,99896.71
+28.6,Male,Bachelor,Manager,3.6,Unknown,2,Medium,City_002,Yes,58539.88
+51.5,Male,Master,Specialist,26.5,IT,3,Small,City_016,No,105387.9
+29.0,Female,Master,Director,5.0,Operations,1,Large,City_014,No,68254.8
+33.9,Male,Bachelor,Director,10.9,Finance,2,Medium,City_021,Yes,78778.82
+37.3,Female,Bachelor,Director,12.3,Marketing,1,Small,City_025,No,62932.22
+30.7,Male,Bachelor,Engineer,6.699999999999999,Sales,3,Large,City_003,No,69866.28
+29.2,Female,Bachelor,Engineer,5.2,HR,1,Large,City_024,Yes,52553.28
+36.6,Female,High School,Coordinator,13.6,HR,1,Large,City_023,No,64234.67
+28.6,Male,Bachelor,Manager,4.600000000000001,Finance,3,Small,City_040,No,70582.37
+43.0,Female,Master,Director,18.8,HR,2,Medium,City_022,No,91510.93
+34.7,Female,Master,Analyst,12.7,HR,4,Medium,City_003,Yes,100231.92
+27.7,Female,Bachelor,Analyst,1.7,HR,2,Large,City_017,Yes,62704.77
+41.4,Female,Bachelor,Director,19.4,Finance,2,Medium,City_008,No,83274.97
+35.5,Male,High School,Manager,10.5,Sales,1,Large,City_034,No,65184.25
+45.6,Female,Bachelor,Manager,19.6,Finance,3,Large,City_029,No,89673.9
+45.9,Male,Master,Manager,21.9,Unknown,4,Large,City_004,No,109767.18
+39.2,Female,PhD,Specialist,17.2,IT,2,Large,City_018,No,93028.66
+65.0,Female,Master,Director,40.0,IT,2,Small,City_016,Yes,124935.72
+45.8,Female,High School,Director,21.799999999999997,Unknown,2,Large,City_017,Yes,93045.31
+46.0,Male,Bachelor,Specialist,24.0,Marketing,1,Medium,City_007,Yes,79203.58
+26.5,Female,Bachelor,Engineer,0.5,IT,3,Large,City_001,Yes,68627.93
+28.8,Male,Bachelor,Engineer,4.8,IT,2,Large,City_036,Yes,60632.83
+44.5,Male,High School,Specialist,18.5,Sales,5,Medium,City_021,No,100040.09
+33.0,Male,Bachelor,Coordinator,9.0,IT,1,Large,City_025,Yes,74826.12
+52.0,Male,Bachelor,Analyst,27.0,Marketing,3,Medium,City_003,No,104781.62
+30.3,Male,High School,Director,5.3,Operations,4,Large,City_011,No,74766.99
+22.2,Male,Bachelor,Analyst,0.0,Operations,3,Small,City_015,No,59418.31
+22.0,Female,PhD,Analyst,0.0,Marketing,2,Small,City_039,No,59167.45
+54.4,Male,Master,Manager,31.4,Finance,2,Medium,City_023,No,117370.83
+43.7,Male,Master,Specialist,17.7,Finance,2,Medium,City_019,No,85588.26
+44.9,Female,Master,Specialist,19.9,Operations,3,Medium,City_017,No,99866.77
+33.8,Female,Bachelor,Director,11.8,Unknown,2,Small,City_022,No,60954.32
+22.0,Male,Bachelor,Engineer,0.0,Sales,5,Medium,City_030,No,72833.93
+28.8,Male,Bachelor,Engineer,2.8,Operations,2,Small,City_034,No,61993.53
+29.5,Male,Master,Director,4.5,HR,4,Medium,City_039,No,71584.16
+26.7,Female,Bachelor,Engineer,4.7,Marketing,1,Large,City_005,Yes,50420.81
+34.1,Female,Master,Coordinator,11.1,Operations,3,Large,City_001,No,92173.87
+27.9,Male,High School,Manager,5.9,IT,5,Medium,City_021,No,81310.19
+41.2,Female,Bachelor,Analyst,18.2,Marketing,5,Small,City_005,No,105920.96
+26.3,Male,Bachelor,Coordinator,1.3,Sales,2,Small,City_008,Yes,61710.68
+32.1,Female,Bachelor,Manager,10.1,HR,2,Medium,City_027,No,63776.49
+42.5,Female,High School,Manager,17.5,Sales,1,Medium,City_038,Yes,60059.95
+40.4,Male,Master,Analyst,16.4,Operations,1,Small,City_039,No,71115.48
+37.3,Female,Bachelor,Analyst,12.3,IT,1,Small,City_024,No,53965.27
+29.3,Male,Master,Engineer,7.3,Finance,2,Medium,City_004,No,68311.71
+29.3,Female,Bachelor,Manager,7.3,HR,3,Medium,City_011,Yes,73816.15
+33.5,Female,Bachelor,Coordinator,10.5,IT,1,Large,City_024,Yes,67423.57
+30.4,Male,Bachelor,Specialist,4.4,IT,3,Large,City_018,No,70086.73
+45.1,Male,Master,Analyst,21.1,Unknown,2,Small,City_025,Yes,99731.07
+52.3,Male,Bachelor,Analyst,28.3,Marketing,1,Medium,City_010,No,90625.03
+40.0,Female,Bachelor,Specialist,17.0,Operations,1,Small,City_021,No,63770.02
+26.5,Male,Bachelor,Specialist,2.5,Finance,4,Medium,City_002,No,66385.24
+45.8,Female,Bachelor,Specialist,19.8,IT,4,Medium,City_027,Yes,108129.03
+42.3,Male,Bachelor,Specialist,16.3,Marketing,4,Medium,City_018,No,97764.01
+35.0,Male,Bachelor,Engineer,9.0,Finance,4,Large,City_026,No,81845.14
+44.1,Female,Master,Engineer,18.1,Finance,5,Large,City_019,No,119884.47
